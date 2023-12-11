@@ -1,0 +1,4 @@
+Mohammad yani, 70, 80, 75,87,78,87
+Anas yani, 90, 80, 85
+Fadhilah Yani, 100, 80, 90
+Khansa Yani, 90, 90, 95, 85
